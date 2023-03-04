@@ -61,15 +61,15 @@
       "low_severity":[
         {
           "id":1,
-          "name":"Bug-4"
+          "name":"Bug-7"
         },
         {
           "id":2,
-          "name":"Bug-5"
+          "name":"Bug-8"
         },
         {
           "id":3,
-          "name":"Bug-6"
+          "name":"Bug-9"
         }
       ]
        
